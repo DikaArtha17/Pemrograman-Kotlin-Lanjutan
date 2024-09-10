@@ -21,4 +21,13 @@ fun main(args: Array<String>) {
     } else {
         println("Hey that's not simpson")
     }
+    val simpsonE = arrayOf("Homer", "Marge", "Bard", "Lisa", "Meggie")
+    println("simpsons size: " + simpsonE.size)
+    if (!simpsonE.isEmpty())
+        println("Array tidak kosong!")
+    println("Min = "+ simpsonE.minOrNull())
+    println("Max = "+ simpsonE.maxOrNull())
+    println("First = "+simpsonE.first())
+    println("Last = "+simpsonE.last())
+    println(simpsonE.contains("Marge"))
 }
