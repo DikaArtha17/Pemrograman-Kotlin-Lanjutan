@@ -42,7 +42,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.BreakdanContinueKt">
+  <component name="RunManager" selected="Kotlin.ReturnPerulanganForLoopKt">
     <configuration name="BreakdanContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BreakdanContinueKt" />
       <module name="Pemrograman-Kotlin-Lanjutan" />
@@ -57,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForLoopTabelPerkalianKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForLoopTabelPerkalianKt" />
+    <configuration name="ReturnPerulanganForLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReturnPerulanganForLoopKt" />
       <module name="Pemrograman-Kotlin-Lanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ReturnPerulanganForLoopKt" />
         <item itemvalue="Kotlin.BreakdanContinueKt" />
         <item itemvalue="Kotlin.WhileLoopKalkulatorSederhanaKt" />
         <item itemvalue="Kotlin.WhiledanDoWhileLoopKt" />
         <item itemvalue="Kotlin.ForLoopKalkulatorEksponensialKt" />
-        <item itemvalue="Kotlin.ForLoopTabelPerkalianKt" />
       </list>
     </recent_temporary>
   </component>
