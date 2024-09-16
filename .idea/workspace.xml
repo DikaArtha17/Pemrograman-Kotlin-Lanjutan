@@ -39,7 +39,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.MenggunakanPairSebagaiNilaiKembaliKt">
+  <component name="RunManager" selected="Kotlin.SingleExpressionFunctionsKt">
     <configuration name="AkarKuadratKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AkarKuadratKt" />
       <module name="Pemrograman-Kotlin-Lanjutan" />
@@ -61,13 +61,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LuasKelilingLingkaranKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LuasKelilingLingkaranKt" />
-      <module name="Pemrograman-Kotlin-Lanjutan" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MenggunakanPairSebagaiNilaiKembaliKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MenggunakanPairSebagaiNilaiKembaliKt" />
       <module name="Pemrograman-Kotlin-Lanjutan" />
@@ -75,13 +68,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SingleExpressionFunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SingleExpressionFunctionsKt" />
+      <module name="Pemrograman-Kotlin-Lanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.SingleExpressionFunctionsKt" />
         <item itemvalue="Kotlin.MenggunakanPairSebagaiNilaiKembaliKt" />
         <item itemvalue="Kotlin.FungsiDenganNilaiKembaliKt" />
         <item itemvalue="Kotlin.FungsiTanpaNilaiKembaliKt" />
         <item itemvalue="Kotlin.AkarKuadratKt" />
-        <item itemvalue="Kotlin.LuasKelilingLingkaranKt" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +318,28 @@
       <option name="project" value="LOCAL" />
       <updated>1726468083664</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="add">
+      <created>1726468197387</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1726468197387</updated>
+    </task>
+    <task id="LOCAL-00034" summary="add">
+      <created>1726468331255</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1726468331255</updated>
+    </task>
+    <task id="LOCAL-00035" summary="add">
+      <created>1726468416362</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1726468416362</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
