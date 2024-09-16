@@ -42,9 +42,16 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.WhenKt">
+  <component name="RunManager" selected="Kotlin.KalkulatorPercabanganWhenKt">
     <configuration name="KalkulatorPercabanganIFELSEIFKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KalkulatorPercabanganIFELSEIFKt" />
+      <module name="Pemrograman-Kotlin-Lanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KalkulatorPercabanganWhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KalkulatorPercabanganWhenKt" />
       <module name="Pemrograman-Kotlin-Lanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -64,13 +71,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RangesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RangesKt" />
-      <module name="Pemrograman-Kotlin-Lanjutan" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="WhenKt" />
       <module name="Pemrograman-Kotlin-Lanjutan" />
@@ -80,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.KalkulatorPercabanganWhenKt" />
         <item itemvalue="Kotlin.WhenKt" />
         <item itemvalue="Kotlin.KalkulatorPercabanganIFELSEIFKt" />
         <item itemvalue="Kotlin.Percabangan2Kt" />
         <item itemvalue="Kotlin.Percabangan1Kt" />
-        <item itemvalue="Kotlin.RangesKt" />
       </list>
     </recent_temporary>
   </component>
