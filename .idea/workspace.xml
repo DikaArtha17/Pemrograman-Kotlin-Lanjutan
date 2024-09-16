@@ -42,16 +42,16 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.SafeCallsKt">
-    <configuration name="BreakdanContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BreakdanContinueKt" />
+  <component name="RunManager" selected="Kotlin.ElvisOperatorKt">
+    <configuration name="BreakdanContinueLabelForLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BreakdanContinueLabelForLoopKt" />
       <module name="Pemrograman-Kotlin-Lanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BreakdanContinueLabelForLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BreakdanContinueLabelForLoopKt" />
+    <configuration name="ElvisOperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ElvisOperatorKt" />
       <module name="Pemrograman-Kotlin-Lanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ElvisOperatorKt" />
         <item itemvalue="Kotlin.SafeCallsKt" />
         <item itemvalue="Kotlin.NullSafetyKt" />
         <item itemvalue="Kotlin.BreakdanContinueLabelForLoopKt" />
         <item itemvalue="Kotlin.ReturnPerulanganForLoopKt" />
-        <item itemvalue="Kotlin.BreakdanContinueKt" />
       </list>
     </recent_temporary>
   </component>
