@@ -39,7 +39,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.FungsiTanpaNilaiKembaliKt">
+  <component name="RunManager" selected="Kotlin.FungsiDenganNilaiKembaliKt">
     <configuration name="AkarKuadratKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AkarKuadratKt" />
       <module name="Pemrograman-Kotlin-Lanjutan" />
@@ -47,8 +47,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionHandlingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionHandlingKt" />
+    <configuration name="FungsiDenganNilaiKembaliKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FungsiDenganNilaiKembaliKt" />
       <module name="Pemrograman-Kotlin-Lanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FungsiDenganNilaiKembaliKt" />
         <item itemvalue="Kotlin.FungsiTanpaNilaiKembaliKt" />
         <item itemvalue="Kotlin.AkarKuadratKt" />
         <item itemvalue="Kotlin.LuasKelilingLingkaranKt" />
         <item itemvalue="Kotlin.FungsiMathKt" />
-        <item itemvalue="Kotlin.ExceptionHandlingKt" />
       </list>
     </recent_temporary>
   </component>
