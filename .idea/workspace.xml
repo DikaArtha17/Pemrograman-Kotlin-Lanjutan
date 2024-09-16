@@ -41,16 +41,16 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ForLoopTabelPerkalianKt">
-    <configuration name="ForLoopTabelPerkalianKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForLoopTabelPerkalianKt" />
+  <component name="RunManager" selected="Kotlin.ForLoopKalkulatorEksponensialKt">
+    <configuration name="ForLoopKalkulatorEksponensialKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForLoopKalkulatorEksponensialKt" />
       <module name="Pemrograman-Kotlin-Lanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KalkulatorPercabanganIFELSEIFKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KalkulatorPercabanganIFELSEIFKt" />
+    <configuration name="ForLoopTabelPerkalianKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForLoopTabelPerkalianKt" />
       <module name="Pemrograman-Kotlin-Lanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ForLoopKalkulatorEksponensialKt" />
         <item itemvalue="Kotlin.ForLoopTabelPerkalianKt" />
         <item itemvalue="Kotlin.PerulanganKt" />
         <item itemvalue="Kotlin.KalkulatorPercabanganWhenKt" />
         <item itemvalue="Kotlin.WhenKt" />
-        <item itemvalue="Kotlin.KalkulatorPercabanganIFELSEIFKt" />
       </list>
     </recent_temporary>
   </component>
