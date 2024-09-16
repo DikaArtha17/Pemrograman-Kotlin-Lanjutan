@@ -43,7 +43,14 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.LuasKelilingLingkaranKt">
+  <component name="RunManager" selected="Kotlin.AkarKuadratKt">
+    <configuration name="AkarKuadratKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AkarKuadratKt" />
+      <module name="Pemrograman-Kotlin-Lanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ElvisOperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ElvisOperatorKt" />
       <module name="Pemrograman-Kotlin-Lanjutan" />
@@ -72,20 +79,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SafeCallsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SafeCallsKt" />
-      <module name="Pemrograman-Kotlin-Lanjutan" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.AkarKuadratKt" />
         <item itemvalue="Kotlin.LuasKelilingLingkaranKt" />
         <item itemvalue="Kotlin.FungsiMathKt" />
         <item itemvalue="Kotlin.ExceptionHandlingKt" />
         <item itemvalue="Kotlin.ElvisOperatorKt" />
-        <item itemvalue="Kotlin.SafeCallsKt" />
       </list>
     </recent_temporary>
   </component>
