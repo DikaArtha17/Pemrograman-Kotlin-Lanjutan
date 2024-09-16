@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38442e1e-1597-43aa-9269-68478225729a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BreakdanContinueLabelForLoop.kt" afterDir="false" />
+    <list default="true" id="38442e1e-1597-43aa-9269-68478225729a" name="Changes" comment="add">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/SafeCalls.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +42,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.NullSafetyKt">
+  <component name="RunManager" selected="Kotlin.SafeCallsKt">
     <configuration name="BreakdanContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BreakdanContinueKt" />
       <module name="Pemrograman-Kotlin-Lanjutan" />
@@ -70,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileLoopKalkulatorSederhanaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhileLoopKalkulatorSederhanaKt" />
+    <configuration name="SafeCallsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SafeCallsKt" />
       <module name="Pemrograman-Kotlin-Lanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.SafeCallsKt" />
         <item itemvalue="Kotlin.NullSafetyKt" />
         <item itemvalue="Kotlin.BreakdanContinueLabelForLoopKt" />
         <item itemvalue="Kotlin.ReturnPerulanganForLoopKt" />
         <item itemvalue="Kotlin.BreakdanContinueKt" />
-        <item itemvalue="Kotlin.WhileLoopKalkulatorSederhanaKt" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +272,21 @@
       <option name="project" value="LOCAL" />
       <updated>1726466937690</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="add">
+      <created>1726467159466</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1726467159466</updated>
+    </task>
+    <task id="LOCAL-00027" summary="add">
+      <created>1726467360591</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1726467360591</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
