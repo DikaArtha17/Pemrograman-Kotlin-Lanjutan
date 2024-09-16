@@ -39,7 +39,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.FungsiDenganNilaiKembaliKt">
+  <component name="RunManager" selected="Kotlin.MenggunakanPairSebagaiNilaiKembaliKt">
     <configuration name="AkarKuadratKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AkarKuadratKt" />
       <module name="Pemrograman-Kotlin-Lanjutan" />
@@ -49,13 +49,6 @@
     </configuration>
     <configuration name="FungsiDenganNilaiKembaliKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FungsiDenganNilaiKembaliKt" />
-      <module name="Pemrograman-Kotlin-Lanjutan" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FungsiMathKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FungsiMathKt" />
       <module name="Pemrograman-Kotlin-Lanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,13 +68,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MenggunakanPairSebagaiNilaiKembaliKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MenggunakanPairSebagaiNilaiKembaliKt" />
+      <module name="Pemrograman-Kotlin-Lanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MenggunakanPairSebagaiNilaiKembaliKt" />
         <item itemvalue="Kotlin.FungsiDenganNilaiKembaliKt" />
         <item itemvalue="Kotlin.FungsiTanpaNilaiKembaliKt" />
         <item itemvalue="Kotlin.AkarKuadratKt" />
         <item itemvalue="Kotlin.LuasKelilingLingkaranKt" />
-        <item itemvalue="Kotlin.FungsiMathKt" />
       </list>
     </recent_temporary>
   </component>
